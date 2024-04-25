@@ -1,0 +1,2 @@
+       Loss  Test acc  Test auc  precision  recall        f1
+0  0.488779  0.795276  0.737342   0.923077     0.5  0.648649

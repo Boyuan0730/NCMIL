@@ -1,0 +1,2 @@
+   test_auc   val_auc  test_acc   val_acc  precision  reacall   f1
+0  0.473629  0.509615  0.622047  0.481481        0.0      0.0  0.0
